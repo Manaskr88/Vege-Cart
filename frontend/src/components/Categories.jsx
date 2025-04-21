@@ -23,7 +23,7 @@ const Categories = () => {
 
                             <img className='group-hover:scale-108 transition max-w-28' src={category.image} alt={category.text} />
                             <p className='text-sm font-medium'>{category.text}</p>
-                        </div>
+                        </div> 
 
                 ))
                 }
